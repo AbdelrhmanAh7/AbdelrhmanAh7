@@ -1,0 +1,29 @@
+# Keeps the "Recent activity" section of the profile README current.
+# Public events only (the GitHub events API never returns private-repo activity).
+# Action: jamesgeorge007/github-activity-readme v0.5.0 (MIT), pinned by commit.
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 05:17 Cairo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 8
+          COMMIT_MSG: "chore: refresh recent activity"

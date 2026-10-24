@@ -25,6 +25,11 @@
 | **[Mizano](https://github.com/AbdelrhmanAh7/Mizano)** | Accountant-first accounting ERP for Egypt, Saudi Arabia and the UAE: double-entry ledger, AP/AR, VAT, invoice intake and Telegram ingestion — built to run on a Raspberry Pi 5. | NestJS · Next.js · PostgreSQL |
 | **NileQuant** | Research and **paper-trading** analytics for the Egyptian Exchange (EGX), with an AI research board. | Python · TypeScript · PostgreSQL |
 
+### ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 🤖 How I work
 
 A one-person company run like a team: AI implementers (Claude Code, Codex, Gemini and open models) pick up issues around the clock on a self-hosted Mac mini, CodeRabbit reviews every pull request, and only safe, green, approved changes merge automatically. Notion is the dashboard; GitHub is the source of truth.
