@@ -29,12 +29,12 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#520](https://github.com/AbdelrhmanAh7/Mizano/pull/520) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-2. 🗣 Commented on [#524](https://github.com/AbdelrhmanAh7/Mizano/pull/524#issuecomment-6387015181) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-3. 🗣 Commented on [#411](https://github.com/AbdelrhmanAh7/Mizano/issues/411#issuecomment-6386993474) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-4. ℹ️ Labeled PR [#520](https://github.com/AbdelrhmanAh7/Mizano/pull/520) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-5. ℹ️ Labeled issue [#423](https://github.com/AbdelrhmanAh7/Mizano/issues/423) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-6. ℹ️ Unlabeled issue [#423](https://github.com/AbdelrhmanAh7/Mizano/issues/423) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-7. ℹ️ Labeled issue [#423](https://github.com/AbdelrhmanAh7/Mizano/issues/423) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+2. ℹ️ Labeled PR [#520](https://github.com/AbdelrhmanAh7/Mizano/pull/520) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+3. ℹ️ Labeled PR [#522](https://github.com/AbdelrhmanAh7/Mizano/pull/522) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+4. ℹ️ Unlabeled PR [#523](https://github.com/AbdelrhmanAh7/Mizano/pull/523) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+5. ℹ️ Labeled PR [#497](https://github.com/AbdelrhmanAh7/Mizano/pull/497) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+6. ℹ️ Labeled PR [#524](https://github.com/AbdelrhmanAh7/Mizano/pull/524) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+7. ℹ️ Unlabeled PR [#522](https://github.com/AbdelrhmanAh7/Mizano/pull/522) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
 8. ℹ️ Labeled PR [#522](https://github.com/AbdelrhmanAh7/Mizano/pull/522) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
 <!--END_SECTION:activity-->
 
