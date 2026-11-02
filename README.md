@@ -28,14 +28,14 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#621](https://github.com/AbdelrhmanAh7/Mizano/pull/621) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-2. 💪 Opened PR [#621](https://github.com/AbdelrhmanAh7/Mizano/pull/621) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-3. 🎉 Merged PR [#620](https://github.com/AbdelrhmanAh7/Mizano/pull/620) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-4. 💪 Opened PR [#620](https://github.com/AbdelrhmanAh7/Mizano/pull/620) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-5. 🎉 Merged PR [#610](https://github.com/AbdelrhmanAh7/Mizano/pull/610) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-6. 🎉 Merged PR [#619](https://github.com/AbdelrhmanAh7/Mizano/pull/619) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-7. 🎉 Merged PR [#618](https://github.com/AbdelrhmanAh7/Mizano/pull/618) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-8. 💪 Opened PR [#619](https://github.com/AbdelrhmanAh7/Mizano/pull/619) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+1. 💪 Opened PR [#692](https://github.com/AbdelrhmanAh7/Mizano/pull/692) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+2. 💪 Opened PR [#691](https://github.com/AbdelrhmanAh7/Mizano/pull/691) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+3. 🎉 Merged PR [#681](https://github.com/AbdelrhmanAh7/Mizano/pull/681) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+4. 💪 Opened PR [#681](https://github.com/AbdelrhmanAh7/Mizano/pull/681) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+5. 💪 Opened PR [#678](https://github.com/AbdelrhmanAh7/Mizano/pull/678) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+6. 🎉 Merged PR [#677](https://github.com/AbdelrhmanAh7/Mizano/pull/677) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+7. 💪 Opened PR [#677](https://github.com/AbdelrhmanAh7/Mizano/pull/677) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+8. 🎉 Merged PR [#675](https://github.com/AbdelrhmanAh7/Mizano/pull/675) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
 <!--END_SECTION:activity-->
 
 ### 🤖 How I work
