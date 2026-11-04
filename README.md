@@ -28,14 +28,14 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#709](https://github.com/AbdelrhmanAh7/Jarda/pull/709) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
-2. 💪 Opened PR [#709](https://github.com/AbdelrhmanAh7/Jarda/pull/709) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
-3. 🎉 Merged PR [#708](https://github.com/AbdelrhmanAh7/Jarda/pull/708) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
-4. 💪 Opened PR [#708](https://github.com/AbdelrhmanAh7/Jarda/pull/708) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
-5. 💪 Opened PR [#678](https://github.com/AbdelrhmanAh7/Mizano/pull/678) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-6. 🎉 Merged PR [#677](https://github.com/AbdelrhmanAh7/Mizano/pull/677) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-7. 💪 Opened PR [#677](https://github.com/AbdelrhmanAh7/Mizano/pull/677) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
-8. 🎉 Merged PR [#675](https://github.com/AbdelrhmanAh7/Mizano/pull/675) in [AbdelrhmanAh7/Mizano](https://github.com/AbdelrhmanAh7/Mizano)
+1. ℹ️ Labeled PR [#717](https://github.com/AbdelrhmanAh7/Jarda/pull/717) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+2. ℹ️ Labeled PR [#717](https://github.com/AbdelrhmanAh7/Jarda/pull/717) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+3. 💪 Opened PR [#717](https://github.com/AbdelrhmanAh7/Jarda/pull/717) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+4. 💪 Opened PR [#716](https://github.com/AbdelrhmanAh7/Jarda/pull/716) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+5. 🎉 Merged PR [#714](https://github.com/AbdelrhmanAh7/Jarda/pull/714) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+6. 🎉 Merged PR [#715](https://github.com/AbdelrhmanAh7/Jarda/pull/715) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+7. 💪 Opened PR [#715](https://github.com/AbdelrhmanAh7/Jarda/pull/715) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
+8. 💪 Opened PR [#714](https://github.com/AbdelrhmanAh7/Jarda/pull/714) in [AbdelrhmanAh7/Jarda](https://github.com/AbdelrhmanAh7/Jarda)
 <!--END_SECTION:activity-->
 
 ### 🤖 How I work
