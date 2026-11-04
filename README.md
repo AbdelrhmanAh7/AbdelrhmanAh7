@@ -23,7 +23,6 @@
 |---|---|---|
 | **[FlowLine](https://github.com/AbdelrhmanAh7/FlowLine_Web)** | Arabic-first visual workflow automation with AI agents, a bring-your-own-key multi-provider AI hub, knowledge and Copilot. Private beta. | Next.js 16 · PostgreSQL · workers |
 | **[Mizano](https://github.com/AbdelrhmanAh7/Mizano)** | Accountant-first accounting ERP for Egypt, Saudi Arabia and the UAE: double-entry ledger, AP/AR, VAT, invoice intake and Telegram ingestion — built to run on a Raspberry Pi 5. | NestJS · Next.js · PostgreSQL |
-| **NileQuant** | Research and **paper-trading** analytics for the Egyptian Exchange (EGX), with an AI research board. | Python · TypeScript · PostgreSQL |
 
 ### ⚡ Recent activity
 
